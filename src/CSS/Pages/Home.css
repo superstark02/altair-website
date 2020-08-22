@@ -1,0 +1,15 @@
+.home-bg{
+    height: 90vh;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.projects-card{
+    margin: 20px 0px;
+}
